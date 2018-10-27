@@ -4,11 +4,11 @@
 * [Setup](#setup)
 
 ## Image Processing - General Info
-This repository contains some of my exercises with image processing. 
+This repository contains some of my exercises with image processing.  
 
 ## Technologies
-Project is created with:
-* Java SE 8
+This project is created with:
+* Java SE 8 
 * Open CV 4.0
 
 ## Setup
