@@ -1,5 +1,5 @@
 ## Table of contents
-* [General Info](#image processing - general info)
+* [General Info](#image-processing---general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
