@@ -11,10 +11,6 @@ public class MirrorImage {
 	private static Mat srcImage, dstImageHorizontally, dstImageVertically ;
 	private static Mat warpMatrix;
 
-	static {
-		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
-	}
-
 	MirrorImage(String imagePath) {
 
 		imageCodecs = new Imgcodecs();

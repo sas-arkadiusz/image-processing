@@ -14,10 +14,6 @@ public class ImagePosition {
 	private static Mat srcImage, dstImage;
 	private static Mat warpMatrix;
 
-	static {
-		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
-	}
-
 	ImagePosition(String imagePath) {
 
 		imageCodecs = new Imgcodecs();
